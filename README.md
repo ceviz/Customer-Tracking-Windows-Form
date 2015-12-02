@@ -1,2 +1,4 @@
 # Customer-Tracking-Windows-Form
-I am planning to develop a software which using MS SQL and C#
+// This is an ongoing project based on MS SQL and C# and Windows Form Application is used for the interface.
+// It has been already planned but need some helps to finish it as soon as possible.
+
